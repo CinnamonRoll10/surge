@@ -1,0 +1,56 @@
+# Ignore dataset files
+Benchmark_Data_COST2100/
+*.mat
+
+# Ignore Python cache and logs
+__pycache__/
+*.py[cod]
+*.log
+
+# Ignore checkpoints and outputs
+checkpoints/
+*.pt
+*.ckpt
+
+# Ignore system files
+.DS_Store
+# Ignore all image files
+*.jpg
+*.png
+*.jpeg
+
+# Ignore pycharm and system files
+.DS_Store
+*.idea
+__pycache__
+*.zip
+
+# Ignore dataset files
+*.csv
+*.json
+
+# Ignore checkpoints
+*.pth
+
+# Ignore pickle files
+*.pkl
+# Ignore all image files
+*.jpg
+*.png
+*.jpeg
+
+# Ignore pycharm and system files
+.DS_Store
+*.idea
+__pycache__
+*.zip
+
+# Ignore dataset files
+*.csv
+*.json
+
+# Ignore checkpoints
+*.pth
+
+# Ignore pickle files
+*.pkl
